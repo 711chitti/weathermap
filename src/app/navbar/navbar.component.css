@@ -1,0 +1,13 @@
+ul li{
+    float: left;
+    list-style-type: none;
+    padding: 4px;
+    border: 1px solid;
+    width: 250px;
+    background-color: #007bff;
+}
+
+.btn-primary {
+    color: #fff;
+   
+}

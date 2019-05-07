@@ -1,0 +1,15 @@
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 74%;
+    margin-left: 10em;
+    border: 1px solid;
+}
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
